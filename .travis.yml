@@ -11,3 +11,8 @@ deploy:
   skip_cleanup: true
   acl: public_read
   local_dir: public
+  
+# safelist
+branches:
+  only:
+  - master
