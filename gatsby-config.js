@@ -2,11 +2,11 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'Security Burst',
+    description: 'CONFIG Description of Security Burst',
     contact: {
       phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+      email: 'info@securityburst.com',
     },
     menuLinks: [
       {
