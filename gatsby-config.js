@@ -2,7 +2,7 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'security curst',
+    title: 'security burst',
     description: 'CONFIG Description of Security Burst',
     contact: {
       phone: 'XXX XXX XXX',
