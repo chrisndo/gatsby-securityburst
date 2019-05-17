@@ -14,15 +14,15 @@ const Home = (props) => {
       <Helmet>
         <meta
           name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          content="Security Burst.  Helping to ensure that your infrastructure is secure."
         />
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
           <h1>Security Burst</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            Helping to ensure that your infrastrucutre is secure.  Offering multiple services catered to meet your specific needs.
+            Contact us for more information and a free consultation.
           </p>
         </div>
       </div>
