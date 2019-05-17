@@ -26,7 +26,7 @@ class Header extends React.Component {
         <div className="container">
           <div className="logo">
             <Link to="/">
-              <img alt="Homepage" width="173" height="40" src={logo} />
+              <img alt="Homepage" width="217" height="50" src={logo} />
             </Link>
           </div>
           <div className="logo-mobile">
