@@ -21,7 +21,7 @@ const Home = (props) => {
         <div className="container">
           <h1>SECURITY BURST!</h1>
           <p>
-            Helping to ensure that your infrastrucutre is secure.  Offering multiple services catered to meet your specific needs.
+            Helping to ensure that your infrastructre is secure.  Offering multiple services that are catered to meet your specific needs.
             Contact us for more information and a free consultation.
           </p>
         </div>
