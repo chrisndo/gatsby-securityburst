@@ -14,7 +14,7 @@ const Home = (props) => {
       <Helmet>
         <meta
           name="description"
-          content="Security Burst.  Helping to ensure that your infrastructure is secure."
+          content="Security Burst!!!  Helping to ensure that your infrastructure is secure."
         />
       </Helmet>
       <div className="intro pb-4">
